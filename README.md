@@ -1,6 +1,7 @@
 # Academia — Atividade de POO (Java)
 
 Atividade da disciplina **Programação Orientada a Objetos I** — Ciências da Computação, Universidade de Vila Velha (UVV).
+Desenvolvido em dupla: João Vitor de Carvalho Loureiro e Murilo Cipriano Carvalho.
 
 ## O que o programa faz
 Cadastra um aluno de academia com ficha de avaliação, treinos matriculados e plano contratado, e emite um relatório do aluno.
